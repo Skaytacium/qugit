@@ -16,7 +16,7 @@ Yeah.
 
 ### How do I use it?
 
-Just clone it (`git clone https://github.com/Skaytacium/qugit`) into your project's top level/root directory and add `gitbat` to your `.gitignore`.
+Just clone it (`git clone https://github.com/Skaytacium/qugit`) into your project's top level/root directory and add `qugit` to your `.gitignore`.
 
 The `win` folder contains all the scripts.
 
