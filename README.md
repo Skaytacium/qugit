@@ -27,3 +27,7 @@ Run the `firstinit.bat` file if you are using git for the first time, as the `re
 ### Name?
 
 Quick git.
+
+### And?
+
+This uses the default branch as `master` and not `main`. I don't think it symbolizes slavery or any of that nonsense, its a git branch.
